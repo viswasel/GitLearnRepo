@@ -1,0 +1,500 @@
+    2  git push origin viswa_branch_30_mar
+    3  clear
+    4  git status
+    5  git pull
+    6  git gui
+    7  git branch viswa_branch_march_30_secondbranch
+    8  git branch
+    9  git checkout viswa_branch_march_30_secondbranch 
+   10  clear
+   11  touch abc33353.txt
+   12  vi abc33353.txt 
+   13  clear
+   14  git status
+   15  git add
+   16  git add .
+   17  git status
+   18  git reset
+   19  git status
+   20  clear
+   21  git status
+   22  git branch
+   23  git pull
+   24  git checkout main
+   25  git pull
+   26  git gui
+   27  git status
+   28  git branch
+   29  git checkout viswa_branch_30_mar 
+   30  touch newfile.txt
+   31  vi newfile.txt 
+   32  cat newfile.txt 
+   33  clear
+   34  git branch
+   35  git status
+   36  git checkout viswa_branch_march_30_secondbranch 
+   37  git status
+   38  git checkout viswa_branch_mar
+   39  git checkout viswa_branch_30_mar 
+   40  git status
+   41  git checkout viswa_branch_march_30_secondbranch 
+   42  clear
+   43  git status
+   44  git add .
+   45  git commit "adding newfile"
+   46  git commit -m "adding newfile"
+   47  git status
+   48  git push
+   49  git push origin viswa_branch_march_30_secondbranch 
+   50  git status
+   51  git branch
+   52  git checkout viswa_branch_30_mar 
+   53  clear
+   54  git status
+   55  git pull
+   56  vi newfile.txt
+   57  cat newfile.txt 
+   58  git push 
+   59  git push viswa_branch_30_mar
+   60  git branch
+   61  git push viswa_branch_30_mar
+   62  git branch
+   63  git push origin viswa_barnch_30_mar
+   64  git push origin viswa_branch_30_mar
+   65  git status
+   66  git add .
+   67  git commit -m "adding newfile from other branch"
+   68  git push origin viswa_branch_30_mar
+   69  vi  abc6754.txt
+   70  clear
+   71  git status
+   72  git add .
+   73  git commit -m "new commit"
+   74  git push origin 
+   75  git push origin viswa_branch_30_mar 
+   76  git pull
+   77  clear
+   78  git status
+   79  git push origin viswa_branch_30_mar 
+   80  git push origin viswa_branch_30_mar 
+   81  git branch
+   82  git branch viswa_branch_march_30_secondbranch 
+   83  git checkout viswa_branch_march_30_secondbranch 
+   84  clear
+   85  vi abc335454.txt
+   86  git status
+   87  git add .
+   88  git commit -m"new file"
+   89  git push origin viswa_branch_march_30_secondbranch 
+   90  git branch
+   91  git checkout viswa_branch_30_mar
+   92  git status
+   93  vi dfdfdfd.txt
+   94  git push origin 
+   95  git push origin viswa_branch_30_mar
+   96  git pull
+   97  clear
+   98  git status
+   99  git add .
+  100  git commit -m "fdfd"
+  101  git push origin viswa_branch_30_mar 
+  102  git push --help
+  103  git push --help
+  104  git push origin viswa_branch_30_mar 
+  105  clear
+  106  git status
+  107  git branch
+  108  git checkout main
+  109  git pull
+  110  git checkout viswa_branch_30_mar 
+  111  clear
+  112  git status
+  113  git push origin viswa_branch_30_mar
+  114  git pull viswa_branch_30_mar
+  115  git branch -v
+  116  git branch -r
+  117  git fetch
+  118  git fetch origin
+  119  git pull viswa_branch_30_mar
+  120  git push origin viswa_branch_30_mar
+  121  git pull origin/viswa_branch_30_mar
+  122  git pull origin/viswa_branch_30_mar
+  123  git checkout main
+  124  git push origin viswa_branch_30_mar
+  125  git merge viswa_branch_30_mar 
+  126  clear
+  127  git status
+  128  git branch
+  129  git checkout viswa_branch_30_mar
+  130  clear
+  131  git status
+  132  vi abc.txt
+  133  git status
+  134  git add .
+  135  git commit -m "dfddf"
+  136  git push origin viswa_branch_30_mar
+  137  exit
+  138  git branch
+  139  git branch
+  140  git branch
+  141  git branch
+  142  git status
+  143  git branch
+  144  git checkout viswa_branch_march_30_secondbranch 
+  145  git push origin viswa_branch_march_30_secondbranch 
+  146  git branch abc
+  147  git branch
+  148  git checkout abc
+  149  vi abc867545.txt
+  150  cat abc867545.txt 
+  151  clear
+  152  git status
+  153  git add .
+  154  git commit -m"fdfdf"
+  155  git push origin abc
+  156  ls
+  157  cd d:
+  158  cd GitPractice/
+  159  dir
+  160  cls
+  161  clear
+  162  ls -a
+  163  cd .git/
+  164  dir
+  165  cd refs/
+  166  dir
+  167  vim heads/
+  168  cls
+  169  clear
+  170  git branch
+  171  git checkout MyBranch1
+  172  git branch
+  173  git branch -b MyBranch1
+  174  git branch MyBBranch1
+  175  git branch Sample
+  176  git checkout master
+  177  git checkout Master
+  178  cd ..
+  179  dir
+  180  cd GitPractice/
+  181  dir
+  182  ls -a
+  183  git checkout master
+  184  git checkout Master
+  185  git branch
+  186  git branch Newbranch
+  187  cls
+  188  cls
+  189  clear
+  190  ls -a
+  191  cd .git
+  192  dir
+  193  cat HEAD
+  194  cd HEAD
+  195  ls -ltr
+  196  cls
+  197  clear
+  198  git status
+  199  cd ..
+  200  git status
+  201  git branch
+  202  cd ..
+  203  dir
+  204  mkdir Git_Dec13_Practice
+  205  cd Git_Dec13_Practice/
+  206  clear
+  207  dir
+  208  git init
+  209  git branch
+  210  touch colors.txt
+  211  vi colors.txt 
+  212  vi colors.txt 
+  213  cat colors.txt 
+  214  cls
+  215  git branch MyBranch
+  216  clear
+  217  git checkout -b MyBranch
+  218  git branch
+  219  git checkout Master
+  220  git checkout -b master
+  221  git branch
+  222  git status
+  223  git commit - m "First comit"
+  224  git checkout -b MyBranch
+  225  ls 
+  226  vi colors.txt 
+  227  cat colors.txt 
+  228  cls
+  229  clear
+  230  git status 
+  231  git add .
+  232  git commit -m "my new colors edit first"
+  233  cls
+  234  clear
+  235  git statu
+  236  git status
+  237  git branch
+  238  clear
+  239  git checkout -b master
+  240  git status
+  241  git branch
+  242  git checkout -b MyBranch
+  243  git checkout MyBranch
+  244  git status
+  245  git branch
+  246  cls
+  247  clear
+  248  git status
+  249  git log
+  250  cd ..
+  251  cd Git_Dec13_Practice/
+  252  dir
+  253  ls
+  254  git branch
+  255  git checkout master
+  256  git branch
+  257  git remote add origin https://github.com/viswasel/GitLearnRepo.git
+  258  git remote -v
+  259  git push origin master
+  260  clear
+  261  git push origin master
+  262  git remote -v
+  263  git credential -cache exit
+  264  git push origin master
+  265  git push origin master
+  266  git brancch
+  267  clear
+  268  git brancch
+  269  clear
+  270  git branch
+  271  git checkout MyBranch Branch
+  272  git checkout MyBranch
+  273  git branch
+  274  git status
+  275  touch abc.txt
+  276  vi abc.txgt
+  277  vi abc.txt
+  278  cat abc.txt
+  279  clear
+  280  git status
+  281  git add .
+  282  git commit -m "first commit"
+  283  git push origin MyBranch
+  284  git checkout master
+  285  clear
+  286  git pull origin master
+  287  git status
+  288  git branch
+  289  git checkout MyBranch
+  290  git checkout master
+  291  clear
+  292  git branch NewBranch
+  293  git status
+  294  gt checkout NewBrancch
+  295  gt checkout NewBranch
+  296  git checkout NewBranch
+  297  git status
+  298  ls -ltr
+  299  vi Colors.txt
+  300  git status
+  301  git commit -m "abc"
+  302  git status
+  303  git add .
+  304  git commit -m "affd"
+  305  git status
+  306  git status
+  307  git branch
+  308  git checkout MyBranch
+  309  clear
+  310  ls -ltr
+  311  vi colors.txt 
+  312  git branch
+  313  git merge NewBranch
+  314  git status
+  315  git commit colors.txt  -m "fddf"
+  316  clear
+  317  git merge NewBranch
+  318  git diff
+  319  git gui
+  320  git status
+  321  git add .
+  322  git commit -m "abcfdf"
+  323  git status
+  324  cls
+  325  lea
+  326  cliear
+  327  clear
+  328  git merge NewBranch
+  329  git branch
+  330  git checkout NewBranch
+  331  git status
+  332  ls
+  333  vi colors.txt 
+  334  git branch
+  335  git status
+  336  ls 
+  337  git merge origin master
+  338  git status
+  339  git pull origin master
+  340  cls
+  341  clear
+  342  git status
+  343  git status
+  344  git branch
+  345  git checkou master
+  346  git checkout master
+  347  clear
+  348  git status
+  349  git checkout -b TestBranch
+  350  ls
+  351  vi abc.txt
+  352  cat abc.txt
+  353  git staut
+  354  git status
+  355  git add .
+  356  git commit -m "dfdf:"
+  357  git pull origin master
+  358  git diff
+  359  git gui
+  360  git pull origin master
+  361  git gui
+  362  git gui
+  363  cls
+  364  git status
+  365  git pull origin master
+  366  git push --set-upstream origin TestBranch
+  367  git status
+  368  ls
+  369  vi abc.txt
+  370  git status
+  371  git add .
+  372  git commit -m "abc"
+  373  git pull origin master
+  374  git diff
+  375  git gui
+  376  git status
+  377  git pull origin master
+  378  git push origin TestBranch
+  379  git status
+  380  ls
+  381  vi abc.txt 
+  382  git status
+  383  git add .
+  384  git commit -m "dff"
+  385  git pull origin master
+  386  git merge --abort
+  387  git status
+  388  git push origin TestBranch
+  389  cat abc.txt 
+  390  git pull origin master
+  391  cat abc.txt 
+  392  vi abc.txt 
+  393  git add .
+  394  git status
+  395  git restore --staged abc.txt 
+  396  git status
+  397  git log
+  398  clear
+  399  ls
+  400  vi abc.txt 
+  401  clear
+  402  git status
+  403  git pull origin master
+  404  clear
+  405  git add .
+  406  git commit -m "dfdfd"
+  407  git status
+  408  clear
+  409  git pull origin master
+  410  git diff
+  411  git merge -abort
+  412  git merge --abort
+  413  git pull origin master
+  414  git gui
+  415  cls
+  416  clear
+  417  git pull origin master
+  418  git push origin TestBranch
+  419  clear
+  420  ls
+  421  vi colors.txt 
+  422  cat colors.txt 
+  423  clear
+  424  git status
+  425  git add .
+  426  git commit -m "siz"
+  427  git pull origin master
+  428  git merge --abort
+  429  vi colors.txt 
+  430  clear
+  431  cat colors.txt 
+  432  clear
+  433  git pull origin master
+  434  git gui
+  435  git merge abort
+  436  git merge --abort
+  437  clear
+  438  git status
+  439  git stage .
+  440  git commit -m "ffd"
+  441  git pull origin master
+  442  clear
+  443  git pull origin master
+  444  git push origin TestBranch
+  445  vi colors.txt 
+  446  vi colors.txt 
+  447  git status
+  448  git add .
+  449  git commit -m "dfdf"
+  450  git pull origin master
+  451  git gui
+  452  git pull origin master
+  453  clear
+  454  vi colors.txt 
+  455  vi colors.txt 
+  456  git pull origin master
+  457  git pull origin master
+  458  git gui
+  459  git merge --abort
+  460  vi colors.txt 
+  461  git pull origin master
+  462  git add 
+  463  git add .
+  464  git commit -m "dfdfdf:"
+  465  git pull origin master
+  466  git gui
+  467  clear
+  468  git pull origin master
+  469  git status
+  470  git push origin TestBranch
+  471  clear
+  472  cat colors.txt 
+  473  clear
+  474  git diff --staged
+  475  git status
+  476  vi colors.txt 
+  477  git status 
+  478  git diff --staged
+  479  vi colors.txt 
+  480  git diff --staged
+  481  clear
+  482  git config --list
+  483  clear
+  484  git status
+  485  git add .
+  486  git commit -m "dfdf"
+  487  git pull origin master
+  488  git pull origin master
+  489  git status
+  490  git pull origin master
+  491  git gui
+  492  clear
+  493  git pull origin master
+  494  git merge --abort
+  495  git pull origin master
+  496  git gui
+  497  clear
+  498  git pull origin master
+  499  git push origin TestBranch
+  500  history
+  501  history > sss.txt
