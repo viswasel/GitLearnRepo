@@ -2,6 +2,8 @@
     git pusrrr
     rrrh origin viswa_branch_30_mar
     3  clear
+    conflict for added
+    fdfddfdfd/ cnflct added
     4  git status
     5  git pull
     6  git gui
