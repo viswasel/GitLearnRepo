@@ -1,4 +1,6 @@
-    2  git push origin viswa_branch_30_mar
+    2  rrrr
+    git pusrrr
+    rrrh origin viswa_branch_30_mar
     3  clear
     4  git status
     5  git pull
